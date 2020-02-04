@@ -18,6 +18,7 @@
     "last 1 Chrome version"
   ],
   "dependencies": {
+    "@jpleyvat/platzimediaplayer": "^1.0.0",
     "babel": "^6.23.0"
   }
 }
